@@ -14,3 +14,4 @@ DerivePointerAlignment: false
 PointerAlignment: Left
 IndentCaseLabels: true
 SortIncludes: false
+AccessModifierOffset: -4

@@ -2,7 +2,7 @@
 using std::vector;
 
 class Solution {
-  public:
+public:
     vector<int> getConcatenation(vector<int>& nums) {
         size_t oldSize = nums.size();
         nums.resize(oldSize * 2);
